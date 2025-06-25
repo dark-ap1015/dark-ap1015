@@ -1,5 +1,5 @@
 # About Me:
-Computer Science @ Penn State '28<br> | Intern @ Transmitio
+Computer Science @ Penn State <br> | Intern @ Transmitio
 
 
 ## Socials:
